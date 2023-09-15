@@ -102,3 +102,17 @@ body {
     color: hsla(0, 0%, 100%, 0.75);
     border: 2px solid #fff;
 }
+
+.attribution {
+    color: #333;
+    position: fixed;
+    bottom: 10px;
+}
+
+.attribution a {
+    color: red;
+}
+
+.attribution a:hover {
+    color: green;
+}
